@@ -1,0 +1,16 @@
+Gesamtanzahl Artikel:	1806
+Anzahl Artikel in Test:	722
+Anzahl Artikel in Train:	1084
+Anteil von Test an gesamten Artikeln:	0.3998
+Gesamtanzahl Sätze:	2611
+Anzahl Sätze in Test:	1038
+Anzahl Sätze in Train:	1573
+Anteil von Test an gesamten Sätzen:	0.3975
+Gesamtanzahl interactions:	5549
+Anzahl Interaktionen in Test:	2207
+Anzahl Interaktionen in Train:	3342
+Anteil von Test an gesamten Interaktionen:	0.3977
+Gesamtes 0/1 Verhältnis:	0.8952
+0/1 Verhältnis in Test:	0.8993
+0/1 Verhältnis in Train:	0.8924
+Verhältnis des 0/1 Verhältnis von Test und Train:	1.0077

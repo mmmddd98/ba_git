@@ -1,0 +1,1 @@
+{"dataset": "mnist", "model": "mlp", "loss_func": {"name": "softmax_loss", "distance": false, "factor": 10, "width": 0.01}, "optimizer": {"name": "sgd_momentum_wdecay", "lr": 0.01, "regularization": 0.001}, "acc_func": {"name": "softmax_accuracy"}, "batch_size": 128, "max_epochs": 40}

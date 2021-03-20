@@ -1,0 +1,48 @@
+\chapter{Summary and Outlook}
+
+In the beginning we have seen that the setting for optimization is very
+challenging. A highly non-convex loss landscpape which is expensive to compute
+and consists of a large number of local extrema. In practice however,
+optimization becomes suprisingly easy, even simple optimizers like SGD reaching
+good results. Current literature suggest that this may be due to that local
+minima mostly have low loss, exist everywhere on the landscape and are some
+connected by paths of low loss. However, it appears that these connected minima are
+concentrated in enclosed areas surrounded by arewallsas of high loss.
+
+The motivation was to distance from a checkpoint on the landscape to overcome
+these boundaries and explore the landscape further. In earlier work, Cosine
+Decay with Warm restart achieved this by increasing the learning rate again,
+which in turn lead to an increase in performance. In this work, the exploration
+was forced more directly by adding a distance term to the loss function, which
+penalizes small distances to the checkpoint. The results showed that this lead
+to a larger distance compared to normal SGD or cosine decay. Furthermore the
+distance could be controlled by the modification of the Kernel of the loss
+function. However, a further distance did not increase the validation accuracy.
+This lea to the conclusion, that most local minima have approximately the same
+accuracy regardless their position on the landscape.
+
+Adding multiple checkpoints however led to an increase in performance. The
+pattern that arised look similar to cosine decay with warm restart. It was
+argued that this might be due to similar underlying effects on the parameter
+updates. Further work in this area should focus on better understanding the
+reasons for the increase, especially why warm restarts tend to find better
+minima which normal SGD fails to find.
+
+A second effect was found for a suboptimal initial learning rate in combination
+with Cosine Decay with Warm Restart. Here, the addition of the distance function
+stabilized the training process. As this was limited to a particular learning
+rate, there was no trivial explanation to that, but also did not seem to arise
+by chance, as both MobileNetV2 and ResNet32 showed the same behaviour.
+Therefore, further work should focus on explaining this effect and finding other
+examples where the distance function could be beneficial.
+
+Finally, the distance function was applied to ensemble methods, with the idea of
+getting more uncorellated snapshots from a larger distance on the loss
+landscape. However, the corellation seemed to stay the same regardless of the
+distance. These results question the underlying argument for snapshot ensembling
+in the case of Cosine Decay with Warm Restart, where a high learning rate was
+used to try to create uncorellated snapshots. In general, the results challenge
+the connection between the loss landscape and the behaviour of network, as
+different points on the loss landscape did not mean different predictions.
+Therefore, the connection between loss landscape and behaviour has to be further
+investigated. 

@@ -1,0 +1,130 @@
+\documentclass[
+a4paper, 12pt, % Papierformat, Schriftgröße
+titlepage, 		 % extra Titelseite statt einfacher Überschrift
+twoside,			 % beidseitiger Druck
+headsepline,	 % Trennlinie für die Kopfzeile
+BCOR5mm,			 % Binderand 5 mm
+idxtotoc, bibtotoc]{scrreprt}	% Index (soweit vorhanden) und Literaturliste weggelassen: bibtotoc
+				       % im Inhaltsverzeichnis aufführen
+% Dokumentenklasse ist aus dem KOMA-Script-Paket die SCRReprt-Klasse.
+
+\usepackage{wsi-ra}
+\raggedbottom
+% \usepackage{svg}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Gestaltung der Titelseite     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\titlehead{\vspace{.5cm}\centering
+\textbf{\textsc{Eberhard-Karls-Universität Tübingen}}\\
+Wilhelm-Schickard-Institut für Informatik\\Lehrstuhl für Kognitive Systeme}
+
+\subject{\large Bachelor thesis}
+% Studien-, Bachelor-, Diplom- oder Masterarbeit
+
+% Der Titel
+\title{\begin{tabular}{p{11cm}}\centering\Large
+Forcing Deep Neural Networks to explore the Loss Landscape
+\end{tabular}}
+
+
+% Der Name des Autors
+\author{\large Philipp Noel von Bachmann}
+\date{} % Hier kein Datum eintragen!
+
+% Die Betreuer sowie das Abgabedatum etc.
+\publishers{\normalsize\centering\begin{tabular}{p{3cm}p{8cm}}
+\textbf{Gutachter:} 	& Prof.\,Dr.~Andreas Zell\\
+			& Wilhelm-Schickard-Institut für Informatik\\
+      & \\
+\textbf{Betreuer:}	& Maximus Mutschler\\
+			& Wilhelm-Schickard-Institut für Informatik\\
+      & \\
+\textbf{Begonnen am:}	& May 5, 2020\\ 
+ 			& \\
+\textbf{Beendet am:}	& \today
+\end{tabular}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Eidesstattliche Erklärung     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\uppertitleback{\ \\[4ex]\centering
+\begin{tabular}{>{\normalsize}p{4.5cm}>{\normalsize}p{4cm}}
+\large\textbf{Erklärung} & \\[4ex] \multicolumn{2}{p{8.5cm}}{\normalsize
+Hiermit versichere ich, diese Arbeit selbstständig verfasst und nur die
+angegebenen Quellen benutzt zu haben.}\\
+\\[2ex]\multicolumn{2}{p{8.5cm}}{\normalsize Tübingen am \today}\\[6ex]
+\begin{tabular}{p{4.2cm}}\cline{1-1}\\\end{tabular}&\\
+Max Mustermann
+\end{tabular}}
+\lowertitleback{} % Hier nichts eintragen!
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Beginn des Dokumentes         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Titelei                       %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagenumbering{roman}		% kleine lateinische Seitenzahlen
+\maketitle
+
+\begin{abstract}
+\textbf{Abstract. }\input{tex/00A_Abstract.tex}
+\end{abstract}
+
+
+
+
+
+\tableofcontents		% Inhaltsverzeichnis
+\cleardoublepage		% Erzeugt neue Leerseite. Muss ggf. auskommentiert werden.
+\pagenumbering{arabic}		% Ab hier mit arabischen Zahlen numerieren
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Beginn der eigentlichen Arbeit%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{tex/00_Introduction.tex}
+\input{tex/01_Basics.tex}
+\input{tex/02_Methods.tex}
+\input{tex/03_Results.tex}
+\input{tex/04_Discussion.tex}
+\input{tex/05_Summary.tex}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Der Anhang                    %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\appendix
+%\input{tex/0A_Abkuerzungsverzeichnis}
+
+% Erzeuge Glossar und Index.
+%\input{tex/0B_Glossar}
+% Aufruf: makeindex -t Vorlage.glg -o Vorlage.gls -s Vorlage.ist Vorlage.glo
+%\printglossary
+% \printindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Das Literaturverzeichnis      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Dadurch werden die Zitate mit abgekürzten Namen der Autoren generiert.
+\bibliographystyle{abbrv} %??numerical
+\bibliography{tex/literature}
+
+% \addbibresource{tex/literature}
+
+
+\end{document}

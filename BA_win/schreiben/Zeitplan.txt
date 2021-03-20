@@ -1,0 +1,21 @@
+1.3.
+kernels aus paper verstehen (SL,APG) und jeweils rdy beschreiben in 2 absätzen
+daraus ableiten welchen zusammenhang diese zu Kernels allgemein / SVM haben
+==> allgemeinen PArtt beschreiben
+
+KNN und deep learning vid gucken/ informieren
+einheiut planen, vlt KNN als einstieg (perceptron) dann zu deep learning safe mit graph über die schichten
+
+
+
+2.3
+überschrift datamining in der Pharmazeutischren forschung oder sowas
+erst dataming allg ganz kurz
+dann in pharm ==> allgemeine zu pharm (siehe paper beginn)
+
+
+state of the art part cpi/vlt auch ppi
+hier auch klar machen dass freibirg anders, wie anders 
+==> timeline erstellen
+timeline beschreiben viele paper erwähen und kurz 2-3 sätze beschreiben
+dann in 2 unterpunkten biobert und freiburg (beide parts von oben einfügen) ausfühlicher

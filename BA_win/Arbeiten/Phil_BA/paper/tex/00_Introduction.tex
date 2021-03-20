@@ -1,0 +1,47 @@
+\chapter{Introduction}\label{cha:Introduction}
+In recent years, deep neural networks have created huge success in a variety of
+tasks ranging from image classification to autonomous driving. However, when
+viewed from a mathematical standpoint, this success is quite surprising. In
+contrast to traditional optimization, optimization in deep neural networks faces
+some novel challenges.
+
+One major problem is the loss landscape of neural networks. In traditional
+machine learning, the loss landscape is usually convex and only has one minima,
+which is therefore the global one. However in deep neural networks, there exist
+a large number of local minima. Therefore, finding a minimum does not guarantee
+to achieve optimal performance. In addition, the local structure of the loss
+landscape is not resembling the global structure, meaning that the path taken by
+optimizers is mostly suboptimal and leads away from the global optimum. The high
+number of parameters and the loss landscape which is expensive to compute
+further imped the task.
+
+Despite these challenges, even simple optimizers like Stochastic Gradient
+Descent lead to good performances. Recent literature suggests this might
+happen because most local minima indeed have good performance
+\cite{choromanska2015loss}. In addition, searching for a global minima might not
+be useful, as this quickly leads to overfitting, where the networks memorizes
+the training set rather than learning the data distribution. Currently, it seems
+like the local minima are arranged in enclosed areas, where each minima of one area has
+the same loss and is connected to the others by paths of low loss \cite{he2020piecewise},
+\cite{draxler2018essentially}. Furthermore, these areas are surrounnded by walls
+of high loss. Therefore when an optimizer reaches one of these areas, it is
+unlikely to move out of it again. This means, that during training, only a small
+part of the loss landscape is explored.
+
+Even if minima in other areas might have approximatly the same cost, it can be
+beneficial to explore the loss landscape further. The work of Loshchilov \&
+Hutter \cite{loshchilov2016sgdr} showed this by using warm restarts. Here, the
+learning rate was set back to the initial learning rate after a fixed number of
+epochs. Therefore, the update steps got larger and the landscape was explored
+further. This lead to an increase in maximum performance after the learning rate
+was decayed again.
+
+Inspired by their results, the goal of this paper is to pursue the idea further.
+Rather than letting the exploration happen implicity by a high learning rate,
+this work tries to force exploration more directly by rewarding moving away from
+fixed locations on the loss landscape. The hope beeing, that new areas might
+lead to an increase in performance, even if it could be small. As different
+locations on the loss landscape should mean different behaviours of the network,
+further fields of research like Ensemble methods could possibly benefit from the
+approach.
+

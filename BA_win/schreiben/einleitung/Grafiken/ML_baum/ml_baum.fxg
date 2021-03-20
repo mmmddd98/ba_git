@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic xmlns="http://ns.adobe.com/fxg/2008" xmlns:fxg="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd" version="2.0" viewWidth="794" viewHeight="1123">
+  <mask>
+    <Group>
+      <Rect width="794" height="1123">
+        <fill>
+          <SolidColor color="#ffffff" alpha="1"/>
+        </fill>
+      </Rect>
+    </Group>
+  </mask>
+  <!--Unknown tag: defs-->
+  <!--Unknown tag: sodipodi:namedview-->
+  <!--Unknown tag: metadata-->
+  <Group id="layer1">
+    <Path data="m 13.120903 10.962646 c 0 -0.842786 0.683683 -1.5261168 1.526116 -1.5261168 h 35.584694 c 0.842081 0 1.525764 0.6833308 1.525764 1.5261168 v 6.104114 c 0 0.842433 -0.683683 1.526116 -1.525764 1.526116 H 14.647019 c -0.842433 0 -1.526116 -0.683683 -1.526116 -1.526116 z" winding="evenOdd" id="path140">
+      <fill>
+        <SolidColor color="#5B9BD5" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 13.120903 10.962646 c 0 -0.842786 0.683683 -1.5261168 1.526116 -1.5261168 h 35.584694 c 0.842081 0 1.525764 0.6833308 1.525764 1.5261168 v 6.104114 c 0 0.842433 -0.683683 1.526116 -1.525764 1.526116 H 14.647019 c -0.842433 0 -1.526116 -0.683683 -1.526116 -1.526116 z" winding="nonZero" id="path152">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="normal" fontFamily="BIGDL N +Calibri" color="#FFFFFF" textAlpha="1" x="15" y="13" blockProgression="tb" id="text164" whiteSpaceCollapse="preserve">
+      <content/>
+    </RichText>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="bold" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="15" y="15" blockProgression="tb" id="text168">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="4" fontWeight="bold" fontFamily="Arial" fontStyle="normal">maschinelles Lernen</span>
+      </content>
+    </RichText>
+    <Path data="m -31.457155 36.253461 c 0 -0.842434 0.683331 -1.525764 1.526117 -1.525764 H 5.6533034 c 0.842433 0 1.525764 0.68333 1.525764 1.525764 v 6.104466 c 0 0.842081 -0.683331 1.525764 -1.525764 1.525764 H -29.931038 c -0.842786 0 -1.526117 -0.683683 -1.526117 -1.525764 z" winding="evenOdd" alpha="0.56" id="path180">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -31.457155 36.253461 c 0 -0.842434 0.683331 -1.525764 1.526117 -1.525764 H 5.6533034 c 0.842433 0 1.525764 0.68333 1.525764 1.525764 v 6.104466 c 0 0.842081 -0.683331 1.525764 -1.525764 1.525764 H -29.931038 c -0.842786 0 -1.526117 -0.683683 -1.526117 -1.525764 z" winding="nonZero" alpha="0.56" id="path184">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="-31" y="41" blockProgression="tb" id="text188">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal">unüberwachtes Lernen</span>
+      </content>
+    </RichText>
+    <Path data="m 32.540261 18.597991 v 8.166453 h -44.674013 l 0.09842 -0.09843 v 7.576961 h -0.19685 v -7.675386 h 44.674013 l -0.09842 0.09842 v -8.068018 z m -44.378386 15.546211 -0.295627 0.590903 -0.295628 -0.590903 z" winding="nonZero" alpha="0.56" id="path200">
+      <fill>
+        <SolidColor color="#1E4E79" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 56.776093 36.367831 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 35.584694 c 0.84208 0 1.525764 0.683331 1.525764 1.526117 v 6.104114 c 0 0.84208 -0.683684 1.526116 -1.525764 1.526116 H 58.30221 c -0.842433 0 -1.526117 -0.684036 -1.526117 -1.526116 z" winding="evenOdd" id="path204">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 56.776093 36.367831 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 35.584694 c 0.84208 0 1.525764 0.683331 1.525764 1.526117 v 6.104114 c 0 0.84208 -0.683684 1.526116 -1.525764 1.526116 H 58.30221 c -0.842433 0 -1.526117 -0.684036 -1.526117 -1.526116 z" winding="nonZero" id="path208">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="normal" fontFamily="BIGDL N +Calibri" color="#FFFFFF" textAlpha="1" x="60" y="41" blockProgression="tb" id="text212">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal">überwachtes Lernen</span>
+      </content>
+    </RichText>
+    <Path data="m 32.34588 18.597991 v 8.223956 h 43.756438 l -0.09878 -0.09878 v 7.630936 h 0.197203 V 26.624744 H 32.444658 l 0.09843 0.09842 v -8.125173 z m 43.46081 15.657689 0.295628 0.591256 0.295275 -0.591256 z" winding="nonZero" id="path224">
+      <fill>
+        <SolidColor color="#1E4E79" alpha="1"/>
+      </fill>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="3" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#000000" textAlpha="1" x="-39" y="24" blockProgression="tb" id="text228">
+      <content>
+        <span fontSize="3" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Daten ohne Label</span>
+      </content>
+    </RichText>
+    <Path data="m -55.13066 55.01196 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 35.584341 c 0.842786 0 1.526116 0.683331 1.526116 1.526117 v 6.104114 c 0 0.842786 -0.68333 1.526116 -1.526116 1.526116 h -35.584341 c -0.842433 0 -1.526117 -0.68333 -1.526117 -1.526116 z" winding="evenOdd" alpha="0.56" id="path254">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -55.13066 55.01196 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 35.584341 c 0.842786 0 1.526116 0.683331 1.526116 1.526117 v 6.104114 c 0 0.842786 -0.68333 1.526116 -1.526116 1.526116 h -35.584341 c -0.842433 0 -1.526117 -0.68333 -1.526117 -1.526116 z" winding="nonZero" alpha="0.56" id="path258">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="normal" fontFamily="BIGDL N +Calibri" color="#FFFFFF" textAlpha="1" x="-49" y="59" blockProgression="tb" id="text262">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Clusteranalysen</span>
+      </content>
+    </RichText>
+    <Path data="m -7.3172766 55.01196 c 0 -0.842786 0.683683 -1.526117 1.526116 -1.526117 H 29.793181 c 0.842786 0 1.526116 0.683331 1.526116 1.526117 v 6.104114 c 0 0.842786 -0.68333 1.526116 -1.526116 1.526116 H -5.7911606 c -0.842433 0 -1.526116 -0.68333 -1.526116 -1.526116 z" winding="evenOdd" alpha="0.56" id="path274">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -7.3172766 55.01196 c 0 -0.842786 0.683683 -1.526117 1.526116 -1.526117 H 29.793181 c 0.842786 0 1.526116 0.683331 1.526116 1.526117 v 6.104114 c 0 0.842786 -0.68333 1.526116 -1.526116 1.526116 H -5.7911606 c -0.842433 0 -1.526116 -0.68333 -1.526116 -1.526116 z" winding="nonZero" alpha="0.56" id="path278">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="-5" y="59" blockProgression="tb" id="text284">
+      <content>
+        <span fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Dimensionsreduktion</span>
+      </content>
+    </RichText>
+    <Path data="m 33.828605 55.01196 c 0 -0.842786 0.683684 -1.526117 1.52647 -1.526117 h 35.58434 c 0.842081 0 1.525764 0.683331 1.525764 1.526117 v 6.104114 c 0 0.842786 -0.683683 1.526116 -1.525764 1.526116 h -35.58434 c -0.842786 0 -1.52647 -0.68333 -1.52647 -1.526116 z" winding="evenOdd" alpha="0.56" id="path296">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 33.828605 55.01196 c 0 -0.842786 0.683684 -1.526117 1.52647 -1.526117 h 35.58434 c 0.842081 0 1.525764 0.683331 1.525764 1.526117 v 6.104114 c 0 0.842786 -0.683683 1.526116 -1.525764 1.526116 h -35.58434 c -0.842786 0 -1.52647 -0.68333 -1.52647 -1.526116 z" winding="nonZero" alpha="0.56" id="path300">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="44" y="59" blockProgression="tb" id="text304">
+      <content>
+        <span fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Regression</span>
+      </content>
+    </RichText>
+    <Path data="m 78.240857 55.01196 c 0 -0.842786 0.683683 -1.526117 1.526116 -1.526117 h 35.584337 c 0.84279 0 1.52647 0.683331 1.52647 1.526117 v 6.104114 c 0 0.842786 -0.68368 1.526116 -1.52647 1.526116 H 79.766973 c -0.842433 0 -1.526116 -0.68333 -1.526116 -1.526116 z" winding="evenOdd" id="path316">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 78.240857 55.01196 c 0 -0.842786 0.683683 -1.526117 1.526116 -1.526117 h 35.584337 c 0.84279 0 1.52647 0.683331 1.52647 1.526117 v 6.104114 c 0 0.842786 -0.68368 1.526116 -1.52647 1.526116 H 79.766973 c -0.842433 0 -1.526116 -0.68333 -1.526116 -1.526116 z" winding="nonZero" id="path328">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="85" y="59" blockProgression="tb" id="text332">
+      <content>
+        <span fontSize="4" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Klassifizierung</span>
+      </content>
+    </RichText>
+    <Path data="m -12.032858 43.888771 v 4.900436 h -23.774399 l 0.09843 -0.09842 v 4.310944 h -0.19685 v -4.409369 h 23.775457 l -0.09878 0.09842 v -4.802011 z m -23.478772 9.014883 -0.295627 0.59055 -0.295275 -0.59055 z" winding="nonZero" alpha="0.56" id="path344">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -12.232177 43.888771 v 4.9022 h 24.237596 l -0.09842 -0.09842 v 4.30918 h 0.19685 v -4.407605 h -24.237596 l 0.09842 0.09843 -0.09489 -0.100194 z m 23.941969 9.014883 0.295627 0.59055 0.295628 -0.59055 z" winding="nonZero" alpha="0.56" id="path348">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 76.198274 44.002859 v 4.84505 H 53.15236 l 0.09807 -0.09842 v 4.255206 h -0.196497 v -4.353631 h 23.045914 l -0.09878 0.09842 v -4.746625 z m -22.750639 8.903053 -0.295275 0.591255 -0.295628 -0.591255 z" winding="nonZero" alpha="0.56" id="path364">
+      <fill>
+        <SolidColor color="#833C0B" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 76.001071 44.002859 v 4.844345 h 21.563188 l -0.09842 -0.09842 v 4.255911 h 0.197203 V 48.650354 H 76.099849 l 0.09842 0.09842 v -4.74592 z m 21.267913 8.903053 0.295275 0.591255 0.295628 -0.591255 z" winding="nonZero" id="path368">
+      <fill>
+        <SolidColor color="#833C0B" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -55.13066 74.361468 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 8.374944 c 0.842786 0 1.526117 0.683331 1.526117 1.526117 v 6.103761 c 0 0.842433 -0.683331 1.526116 -1.526117 1.526116 h -8.374944 c -0.842433 0 -1.526117 -0.683683 -1.526117 -1.526116 z" winding="evenOdd" alpha="0.56" id="path386">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -55.13066 74.361468 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 8.374944 c 0.842786 0 1.526117 0.683331 1.526117 1.526117 v 6.103761 c 0 0.842433 -0.683331 1.526116 -1.526117 1.526116 h -8.374944 c -0.842433 0 -1.526117 -0.683683 -1.526117 -1.526116 z" winding="nonZero" alpha="0.56" id="path390">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="-53" y="78" blockProgression="tb" id="text394">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">K-means</span>
+      </content>
+    </RichText>
+    <Path data="m -27.931635 74.361468 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 11.672358 c 0.842433 0 1.525764 0.683331 1.525764 1.526117 v 6.103761 c 0 0.842433 -0.683331 1.526116 -1.525764 1.526116 h -11.672358 c -0.842433 0 -1.526117 -0.683683 -1.526117 -1.526116 z" winding="evenOdd" alpha="0.56" id="path406">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -27.931635 74.361468 c 0 -0.842786 0.683684 -1.526117 1.526117 -1.526117 h 11.672358 c 0.842433 0 1.525764 0.683331 1.525764 1.526117 v 6.103761 c 0 0.842433 -0.683331 1.526116 -1.525764 1.526116 h -11.672358 c -0.842433 0 -1.526117 -0.683683 -1.526117 -1.526116 z" winding="nonZero" alpha="0.56" id="path410">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="-27" y="78" blockProgression="tb" id="text414">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">hierarchisch</span>
+      </content>
+    </RichText>
+    <Path data="m -41.660687 74.216088 c 0 -0.842433 0.683683 -1.526117 1.526116 -1.526117 h 8.644467 c 0.842433 0 1.526117 0.683684 1.526117 1.526117 v 6.104114 c 0 0.842433 -0.683684 1.526116 -1.526117 1.526116 h -8.644467 c -0.842433 0 -1.526116 -0.683683 -1.526116 -1.526116 z" winding="evenOdd" alpha="0.56" id="path426">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -41.660687 74.216088 c 0 -0.842433 0.683683 -1.526117 1.526116 -1.526117 h 8.644467 c 0.842433 0 1.526117 0.683684 1.526117 1.526117 v 6.104114 c 0 0.842433 -0.683684 1.526116 -1.526117 1.526116 h -8.644467 c -0.842433 0 -1.526116 -0.683683 -1.526116 -1.526116 z" winding="nonZero" alpha="0.56" id="path430">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="-40" y="74" blockProgression="tb" id="text436">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal"/>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">dichte-</span>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">basiert</span>
+      </content>
+    </RichText>
+    <Path data="m -7.3172766 74.179787 c 0 -0.822678 0.667102 -1.48978 1.48978 -1.48978 h 5.95912203 c 0.822325 0 1.48978097 0.667102 1.48978097 1.48978 v 6.176786 c 0 0.822678 -0.66745597 1.489781 -1.48978097 1.489781 H -5.8274966 c -0.822678 0 -1.48978 -0.667103 -1.48978 -1.489781 z" winding="evenOdd" alpha="0.56" id="path448">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -7.3172766 74.179787 c 0 -0.822678 0.667102 -1.48978 1.48978 -1.48978 h 5.95912203 c 0.822325 0 1.48978097 0.667102 1.48978097 1.48978 v 6.176786 c 0 0.822678 -0.66745597 1.489781 -1.48978097 1.489781 H -5.8274966 c -0.822678 0 -1.48978 -0.667103 -1.48978 -1.489781 z" winding="nonZero" alpha="0.56" id="path452">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="-5" y="78" blockProgression="tb" id="text456">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">PCA</span>
+      </content>
+    </RichText>
+    <Path data="m 7.7597394 74.248932 c 0 -0.78105 0.63253 -1.413581 1.413933 -1.413581 h 5.6546746 c 0.781403 0 1.413933 0.632531 1.413933 1.413581 v 6.328833 c 0 0.78105 -0.63253 1.41358 -1.413933 1.41358 H 9.1736724 c -0.781403 0 -1.413933 -0.63253 -1.413933 -1.41358 z" winding="evenOdd" alpha="0.56" id="path468">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 7.7597394 74.248932 c 0 -0.78105 0.63253 -1.413581 1.413933 -1.413581 h 5.6546746 c 0.781403 0 1.413933 0.632531 1.413933 1.413581 v 6.328833 c 0 0.78105 -0.63253 1.41358 -1.413933 1.41358 H 9.1736724 c -0.781403 0 -1.413933 -0.63253 -1.413933 -1.41358 z" winding="nonZero" alpha="0.56" id="path472">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="9" y="78" blockProgression="tb" id="text476">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">t-SNE</span>
+      </content>
+    </RichText>
+    <Path data="m 20.877428 74.361468 c 0 -0.842786 0.68333 -1.526117 1.525763 -1.526117 h 7.38999 c 0.842786 0 1.526116 0.683331 1.526116 1.526117 v 6.103761 c 0 0.842433 -0.68333 1.526116 -1.526116 1.526116 h -7.38999 c -0.842433 0 -1.525763 -0.683683 -1.525763 -1.526116 z" winding="evenOdd" alpha="0.56" id="path488">
+      <fill>
+        <SolidColor color="#70AD47" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 20.877428 74.361468 c 0 -0.842786 0.68333 -1.526117 1.525763 -1.526117 h 7.38999 c 0.842786 0 1.526116 0.683331 1.526116 1.526117 v 6.103761 c 0 0.842433 -0.68333 1.526116 -1.526116 1.526116 h -7.38999 c -0.842433 0 -1.525763 -0.683683 -1.525763 -1.526116 z" winding="nonZero" alpha="0.56" id="path492">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <Group x="0.47247024" y="-0.14174107">
+      <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="BIGDL N +Calibri" color="#FFFFFF" textAlpha="1" x="23" y="78" blockProgression="tb" id="text496" whiteSpaceCollapse="preserve">
+        <content/>
+      </RichText>
+    </Group>
+    <Path data="m -35.713912 62.647447 v 5.192888 H -49.41192 l 0.09843 -0.09807 v 4.60022 h -0.19685 v -4.699 h 13.698008 l -0.09878 0.09878 v -5.094816 z m -13.402381 9.596613 -0.295627 0.591256 -0.295628 -0.591256 z" winding="nonZero" alpha="0.56" id="path508">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -35.905647 62.647447 v 5.192888 h 15.339836 l -0.09842 -0.09913 v 4.60128 h 0.19685 V 67.64278 h -15.339836 l 0.09843 0.09843 v -5.093758 z m 15.044208 9.596613 0.295628 0.591256 0.295627 -0.591256 z" winding="nonZero" alpha="0.56" id="path512">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m -35.905647 62.647447 v 5.122333 h 0.107244 l -0.09878 -0.09842 v 4.529666 h 0.197202 v -4.628091 h -0.107244 l 0.09843 0.09842 v -5.023908 z m -0.188383 9.454797 0.295627 0.591255 0.295275 -0.591255 z" winding="nonZero" alpha="0.56" id="path516">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="M 12.107372 62.647447 V 67.76978 H -2.8426436 l 0.09842 -0.09842 v 4.529666 h -0.197203 V 67.572935 H 12.008942 l -0.09843 0.09842 v -5.023908 z m -14.6547406 9.454797 -0.295275 0.591255 -0.295628 -0.591255 z" winding="nonZero" alpha="0.56" id="path520">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 11.9077 62.647447 v 5.192183 h 14.195778 l -0.09842 -0.09842 v 4.60128 h 0.19685 V 67.64278 H 12.006125 l 0.09842 0.09843 v -5.093758 z m 13.90015 9.596613 0.295628 0.591256 0.295628 -0.591256 z" winding="nonZero" alpha="0.56" id="path524">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 11.9077 62.647447 v 5.192183 h 0.107244 l -0.09842 -0.09842 v 4.60128 h 0.19685 V 67.642785 H 12.00613 l 0.09842 0.09843 v -5.093758 z m -0.188383 9.596613 0.295627 0.591256 0.295275 -0.591256 z" winding="nonZero" alpha="0.56" id="path528">
+      <fill>
+        <SolidColor color="#385623" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 104.36155 74.361468 c 0 -0.842786 0.68368 -1.526117 1.52611 -1.526117 h 9.46362 c 0.84279 0 1.52647 0.683331 1.52647 1.526117 v 6.103761 c 0 0.842433 -0.68368 1.526116 -1.52647 1.526116 h -9.46362 c -0.84243 0 -1.52611 -0.683683 -1.52611 -1.526116 z" winding="evenOdd" id="path532">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 104.36155 74.361468 c 0 -0.842786 0.68368 -1.526117 1.52611 -1.526117 h 9.46362 c 0.84279 0 1.52647 0.683331 1.52647 1.526117 v 6.103761 c 0 0.842433 -0.68368 1.526116 -1.52647 1.526116 h -9.46362 c -0.84243 0 -1.52611 -0.683683 -1.52611 -1.526116 z" winding="nonZero" id="path544">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="106" y="77" blockProgression="tb" id="text550">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">neuronale</span>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Netzwerke</span>
+      </content>
+    </RichText>
+    <Path data="m 92.457448 74.216088 c 0 -0.842433 0.683331 -1.526117 1.526117 -1.526117 h 6.187015 c 0.84244 0 1.52577 0.683684 1.52577 1.526117 v 6.104114 c 0 0.842433 -0.68333 1.526116 -1.52577 1.526116 h -6.187015 c -0.842786 0 -1.526117 -0.683683 -1.526117 -1.526116 z" winding="evenOdd" id="path562">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 92.457448 74.216088 c 0 -0.842433 0.683331 -1.526117 1.526117 -1.526117 h 6.187015 c 0.84244 0 1.52577 0.683684 1.52577 1.526117 v 6.104114 c 0 0.842433 -0.68333 1.526116 -1.52577 1.526116 h -6.187015 c -0.842786 0 -1.526117 -0.683683 -1.526117 -1.526116 z" winding="nonZero" id="path566">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <Path data="m 78.63491 74.465149 c 0 -0.842786 0.683683 -1.526116 1.526116 -1.526116 h 8.375297 c 0.842081 0 1.525764 0.68333 1.525764 1.526116 v 6.103761 c 0 0.842786 -0.683683 1.52647 -1.525764 1.52647 h -8.375297 c -0.842433 0 -1.526116 -0.683684 -1.526116 -1.52647 z" winding="evenOdd" alpha="0.56" id="path584">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 78.63491 74.465149 c 0 -0.842786 0.683683 -1.526116 1.526116 -1.526116 h 8.375297 c 0.842081 0 1.525764 0.68333 1.525764 1.526116 v 6.103761 c 0 0.842786 -0.683683 1.52647 -1.525764 1.52647 h -8.375297 c -0.842433 0 -1.526116 -0.683684 -1.526116 -1.52647 z" winding="nonZero" alpha="0.56" id="path588">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="80" y="75" blockProgression="tb" id="text592">
+      <content>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Entschei-</span>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">dungs-</span>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">baum</span>
+      </content>
+    </RichText>
+    <Path data="m 47.526966 74.465149 c 0 -0.842786 0.68333 -1.526116 1.525764 -1.526116 h 11.465277 c 0.842081 0 1.525764 0.68333 1.525764 1.526116 v 6.103761 c 0 0.842786 -0.683683 1.52647 -1.525764 1.52647 H 49.05273 c -0.842434 0 -1.525764 -0.683684 -1.525764 -1.52647 z" winding="evenOdd" alpha="0.56" id="path608">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 47.526966 74.465149 c 0 -0.842786 0.68333 -1.526116 1.525764 -1.526116 h 11.465277 c 0.842081 0 1.525764 0.68333 1.525764 1.526116 v 6.103761 c 0 0.842786 -0.683683 1.52647 -1.525764 1.52647 H 49.05273 c -0.842434 0 -1.525764 -0.683684 -1.525764 -1.52647 z" winding="nonZero" alpha="0.56" id="path612">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="53" y="77" blockProgression="tb" id="text618">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">SVM</span>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Regression</span>
+      </content>
+    </RichText>
+    <Path data="m 95.755215 84.989921 c 0 -0.842433 0.68333 -1.526117 1.525764 -1.526117 h 11.465281 c 0.84208 0 1.52576 0.683684 1.52576 1.526117 v 6.103761 c 0 0.842786 -0.68368 1.52647 -1.52576 1.52647 H 97.280979 c -0.842434 0 -1.525764 -0.683684 -1.525764 -1.52647 z" winding="evenOdd" alpha="0.56" id="path630">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 95.755215 84.989921 c 0 -0.842433 0.68333 -1.526117 1.525764 -1.526117 h 11.465281 c 0.84208 0 1.52576 0.683684 1.52576 1.526117 v 6.103761 c 0 0.842786 -0.68368 1.52647 -1.52576 1.52647 H 97.280979 c -0.842434 0 -1.525764 -0.683684 -1.525764 -1.52647 z" winding="nonZero" alpha="0.56" id="path634">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="98" y="87" blockProgression="tb" id="text640">
+      <content>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">nächste-</span>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Nachbarn</span>
+      </content>
+    </RichText>
+    <Path data="m 32.511686 74.465149 c 0 -0.842786 0.683683 -1.526116 1.526117 -1.526116 h 10.324746 c 0.842434 0 1.525764 0.68333 1.525764 1.526116 v 6.103761 c 0 0.842786 -0.68333 1.52647 -1.525764 1.52647 H 34.037803 c -0.842434 0 -1.526117 -0.683684 -1.526117 -1.52647 z" winding="evenOdd" alpha="0.56" id="path652">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 32.511686 74.465149 c 0 -0.842786 0.683683 -1.526116 1.526117 -1.526116 h 10.324746 c 0.842434 0 1.525764 0.68333 1.525764 1.526116 v 6.103761 c 0 0.842786 -0.68333 1.52647 -1.525764 1.52647 H 34.037803 c -0.842434 0 -1.526117 -0.683684 -1.526117 -1.52647 z" winding="nonZero" alpha="0.56" id="path656">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="34" y="78" blockProgression="tb" id="text660">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Regression</span>
+      </content>
+    </RichText>
+    <Path data="m 53.250432 62.647447 v 5.247569 H 39.205291 l 0.09842 -0.09842 v 4.657372 h -0.197202 v -4.75615 H 53.15236 l -0.09842 0.09878 v -5.149151 z m -13.749513 9.708091 -0.295628 0.591256 -0.295627 -0.591256 z" winding="nonZero" alpha="0.56" id="path672">
+      <fill>
+        <SolidColor color="#833C0B" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 53.053935 62.647447 v 5.247569 h 1.7399 l -0.09842 -0.09842 v 4.657372 h 0.19685 v -4.75615 h -1.7399 l 0.09807 0.09878 v -5.149144 z m 1.444272 9.708091 0.295628 0.591256 0.295628 -0.591256 z" winding="nonZero" alpha="0.56" id="path676">
+      <fill>
+        <SolidColor color="#833C0B" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 97.661979 62.647447 v 5.247569 H 84.35379 l 0.09842 -0.09842 v 4.657372 h -0.19685 v -4.75615 h 13.308189 l -0.09878 0.09878 v -5.149144 z m -13.012561 9.708091 -0.295628 0.591256 -0.295628 -0.591256 z" winding="nonZero" alpha="0.56" id="path680">
+      <fill>
+        <SolidColor color="#833C0B" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 97.465799 62.647447 v 5.121275 h 0.197203 l -0.09878 -0.09842 v 4.530724 h 0.197203 v -4.629149 h -0.197203 l 0.09878 0.09842 v -5.02285 z m -0.09842 9.454797 0.295628 0.591255 0.295627 -0.591255 z" winding="nonZero" id="path684">
+      <fill>
+        <SolidColor color="#833C0B" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 97.465799 62.647447 v 5.192888 H 110.6237 l -0.0984 -0.09807 v 4.60022 h 0.19685 v -4.699 H 97.564224 l 0.09878 0.09878 v -5.094816 z m 12.862631 9.596613 0.29527 0.591256 0.29563 -0.591256 z" winding="nonZero" id="path688">
+      <fill>
+        <SolidColor color="#833C0B" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="M 53.053935 62.647447 V 67.83963 H 69.81229 l -0.09843 -0.09842 v 4.60128 h 0.19685 V 67.64278 H 53.15236 l 0.09807 0.09843 v -5.093758 z m 16.46308 9.596613 0.295275 0.591256 0.295275 -0.591256 z" winding="nonZero" alpha="0.56" id="path692"/>
+    <Path data="m 62.551771 74.361468 c 0 -0.842786 0.683683 -1.526117 1.526469 -1.526117 h 11.465278 c 0.842081 0 1.525764 0.683331 1.525764 1.526117 v 6.103761 c 0 0.842433 -0.683683 1.526116 -1.525764 1.526116 H 64.07824 c -0.842786 0 -1.526469 -0.683683 -1.526469 -1.526116 z" winding="evenOdd" alpha="0.56" id="path696">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 62.551771 74.361468 c 0 -0.842786 0.683683 -1.526117 1.526469 -1.526117 h 11.465278 c 0.842081 0 1.525764 0.683331 1.525764 1.526117 v 6.103761 c 0 0.842433 -0.683683 1.526116 -1.525764 1.526116 H 64.07824 c -0.842786 0 -1.526469 -0.683683 -1.526469 -1.526116 z" winding="nonZero" alpha="0.56" id="path700">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="64" y="75" blockProgression="tb" id="text708">
+      <content>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">neuronale</span>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Netzwerk</span>
+        <span fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Regression</span>
+      </content>
+    </RichText>
+    <Path data="m 86.681771 84.773668 c 0 -0.722841 0.586669 -1.309864 1.309863 -1.309864 h 5.239809 c 0.723547 0 1.310216 0.587023 1.310216 1.309864 v 6.53662 c 0 0.722841 -0.586669 1.309864 -1.310216 1.309864 h -5.239809 c -0.723194 0 -1.309863 -0.587023 -1.309863 -1.309864 z" winding="evenOdd" alpha="0.56" id="path720">
+      <fill>
+        <SolidColor color="#ED7D31" alpha="1"/>
+      </fill>
+    </Path>
+    <Path data="m 86.681771 84.773668 c 0 -0.722841 0.586669 -1.309864 1.309863 -1.309864 h 5.239809 c 0.723547 0 1.310216 0.587023 1.310216 1.309864 v 6.53662 c 0 0.722841 -0.586669 1.309864 -1.310216 1.309864 h -5.239809 c -0.723194 0 -1.309863 -0.587023 -1.309863 -1.309864 z" winding="nonZero" alpha="0.56" id="path724">
+      <stroke>
+        <SolidColorStroke color="#42719B" alpha="1" weight="0" miterLimit="10" joints="miter" caps="round"/>
+      </stroke>
+    </Path>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="95" y="78" blockProgression="tb" id="text728">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">SVM</span>
+      </content>
+    </RichText>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontFamily="Arial" lineHeight="1" id="text3261" whiteSpaceCollapse="preserve">
+      <content/>
+    </RichText>
+    <RichText alignmentBaseline="ascent" fontSize="3" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#000000" textAlpha="1" x="78" y="24" blockProgression="tb" id="text2285">
+      <content>
+        <span fontSize="3" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Daten mit Label</span>
+      </content>
+    </RichText>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" lineHeight="1" x="23" y="78" id="text3348">
+      <content>
+        <span whiteSpaceCollapse="preserve" color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">UMAP</span>
+      </content>
+    </RichText>
+    <RichText alignmentBaseline="ascent" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal" color="#FFFFFF" textAlpha="1" x="87" y="87" blockProgression="tb" id="text572">
+      <content>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Bayes</span>
+        <span color="#FFFFFF" textAlpha="1" fontSize="2" fontWeight="normal" fontFamily="Arial" fontStyle="normal">Klass.</span>
+      </content>
+    </RichText>
+  </Group>
+</Graphic>

@@ -1,0 +1,1 @@
+{"dataset": "cifar10", "model": "resnet34", "loss_func": {"name": "softmax_loss", "distance": true, "factor": 1, "width": 0.001, "step": 50}, "optimizer": {"name": "sgd_momentum_wdecay", "lr": 0.001, "regularization": 0.001, "scheduler": false}, "acc_func": {"name": "softmax_accuracy"}, "batch_size": 128, "max_epochs": 400}

@@ -1,0 +1,14 @@
+</document>
+<document id="DS.d38" origId="18198997">
+    <sentence id="DS.d38.s0" origId="18198997-256" text="Butyrate enemas upregulate Muc genes expression but decrease adherent mucus thickness in mice colon.">
+        <entity id="DS.d38.s0.e0" origId="264" charOffset="0-8" type="compound" text="Butyrate"/>
+        <entity id="DS.d38.s0.e1" origId="P0A9M0" charOffset="27-30" type="protein" text="Muc"/>
+        <pair e1="DS.d38.s0.e0" e2="DS.d38.s0.e1" id="DS.d38.s0.i0" interaction="True"/>
+    </sentence>
+    <sentence id="DS.d38.s1" origId="18198997-257" text="We demonstrated that butyrate stimulated the gene expression of both secreted (Muc2) and membrane-linked (Muc1, Muc3, Muc4) mucins.">
+        <entity id="DS.d38.s1.e0" origId="264" charOffset="21-29" type="compound" text="butyrate"/>
+        <entity id="DS.d38.s1.e1" origId="Q62635" charOffset="79-83" type="protein" text="Muc2"/>
+        <entity id="DS.d38.s1.e2" origId="Q02496" charOffset="106-110" type="protein" text="Muc1"/>
+        <pair e1="DS.d38.s1.e0" e2="DS.d38.s1.e1" id="DS.d38.s1.i0" interaction="True"/>
+        <pair e1="DS.d38.s1.e0" e2="DS.d38.s1.e2" id="DS.d38.s1.i1" interaction="True"/>
+    </sentence>

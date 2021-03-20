@@ -1,0 +1,1 @@
+{"dataset": "cifar10", "model": "mobileNetV2", "loss_func": {"name": "softmax_loss", "distance": true, "factor": 10, "width": 0.001, "step": 150, "multiple": true}, "optimizer": {"name": "sgd_momentum_wdecay", "lr": 1, "regularization": 0.001, "scheduler": "cosine", "step": 50, "cycle": 150}, "acc_func": {"name": "softmax_accuracy"}, "batch_size": 128, "max_epochs": 600}
