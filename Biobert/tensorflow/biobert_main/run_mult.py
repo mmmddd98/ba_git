@@ -42,8 +42,8 @@ def create_out_folder_in_results(headfolder,von,bis):
 
 
 def run():
-    os.system("python3 run_re.py --task_name=$TASK_NAME --do_train=true --do_eval=true --do_predict=true --vocab_file=$BIOBERT_DIR/vocab.txt --bert_config_file=$BIOBERT_DIR/bert_config.json --init_checkpoint=$BIOBERT_DIR/model.ckpt-1000000 --max_seq_length=128 --train_batch_size=32 --learning_rate=2e-5 --num_train_epochs=3.0 --do_lower_case=false --data_dir=$RE_DIR --output_dir=$OUTPUT_DIR")
-
+    #os.system("python3 run_re.py --task_name=$TASK_NAME --do_train=true --do_eval=true --do_predict=true --vocab_file=$BIOBERT_DIR/vocab.txt --bert_config_file=$BIOBERT_DIR/bert_config.json --init_checkpoint=$BIOBERT_DIR/model.ckpt-1000000 --max_seq_length=128 --train_batch_size=32 --learning_rate=2e-5 --num_train_epochs=3.0 --do_lower_case=false --data_dir=$RE_DIR --output_dir=$OUTPUT_DIR")
+    print("wäre gerunnt")
 def eval():
     os.system("python3 ./biocodes/re_eval.py --output_path=$OUTPUT_DIR/test_results.tsv --answer_path=$RE_DIR/test.tsv")
 
@@ -71,8 +71,6 @@ def env_enter(env):
 
 def input_preprocess(input_folder,output_dir):
     inhalt = sorted(os.listdir("../ds/" + str(input_folder)))
-    if 'DS_results.tsv' not in inhalt:
-        print(">>> DS_results.tsv is missing ")
     if len(inhalt) != 3:
         print(">>> falsche Anzahl an input-files")
     stor  = get_name_train_and_test_file(inhalt)
@@ -82,7 +80,6 @@ def input_preprocess(input_folder,output_dir):
     os.rename("../ds/" + str(input_folder) + "/" + test_file_name,"../ds/" + str(input_folder) + "/" + "test.tsv" )
     os.rename("../ds/" + str(input_folder) + "/" + train_file_name,"../ds/" + str(input_folder) + "/" + "train.tsv" )
     insert_dev(input_folder)
-    copy_ds_res(input_folder,output_dir)
     print(">>> preprocess finished")
 
 def get_name_train_and_test_file(input_files_list):
@@ -97,35 +94,17 @@ def get_name_train_and_test_file(input_files_list):
 def insert_dev(input_folder):
     shutil.copy("../ds/dev.tsv","../ds/" + str(input_folder) + "/dev.tsv")
 
-def copy_ds_res(input_folder,output_dir):
-    shutil.copy("../ds/" + str(input_folder) + "/DS_results.tsv","../results/" + str(output_dir) + "/DS_results.tsv")
-
-
-
+def main(ordner):
+    for i in range(1,11):
+        print(i)
+        ein_run("runs/" +str(ordner) + "/DS-" + str(i),"runs/" +str(ordner) + "/DS-" + str(i))
+    
 
 
 
 ################################################################################
-#env_enter("tens")
-#time.sleep(4)
-#ein_run("val_given_ds/1","val_given_ds/1.1")
+#run
 
-for i in range(2,11):
-    print(i)
-    ein_run("runs/Split_10_0.9/DS-" + str(i),"runs/jan/Split_10_0.9/DS-" + str(i))
+main("Split_10_0.5")
 
 
-
-
-
-
-#ein_run("runs/Split_5_0.6/DS-5" ,"runs/nach_22_12/Split_5_0.6/DS-5")
-
-#ein_run("runs/Split_5_0.4/DS-2","runs/Split_5_0.4/DS-2")
-#ein_run("runs/Split_5_0.3/DS-3","runs/Split_5_0.3/DS-3")
-#ein_run("runs/Split_5_0.3/DS-4","runs/Split_5_0.3/DS-4")
-#ein_run("runs/Split_5_0.3/DS-5","runs/Split_5_0.3/DS-5")
-#ein_run("val_given_ds/1","val_given_ds/1.2")
-#ein_run("runs/Split_5_0.2/DS-2","runs/Split_5_0.2/DS-2")
-#ein_run("val_given_ds/1","val_given_ds/1.3")
-#ein_run("runs/Split_5_0.2/DS-3","runs/Split_5_0.2/DS-3")

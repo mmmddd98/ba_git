@@ -1,0 +1,13 @@
+run	f1	recall	precision	specifity	runtime	anzahl rel in test.tsv	davon anzahl der abstracts	anzahl rel in train.tsv	 davon anzahl der abstracts	gesamtanzahl rel	gesamtanzahl Abstracts	anteil test rel an rel ges	1/0 Verhältnis test.tsv	1/0 Verhältnis train.tsv	1/0 Verhältnis test/train.tsv
+DS-1	0.789	0.836	0.747	0.684	0h 18min 29sek
+DS-10	0.752	0.734	0.772	0.757	0h 15min 51sek
+DS-2	0.795	0.828	0.764	0.714	0h 16min 16sek
+DS-3	0.802	0.863	0.749	0.677	0h 16min 16sek
+DS-4	0.772	0.786	0.758	0.72	0h 16min 16sek
+DS-5	0.768	0.793	0.743	0.694	0h 15min 37sek
+DS-6	0.788	0.86	0.727	0.638	0h 16min 26sek
+DS-7	0.771	0.817	0.729	0.66	0h 16min 8sek
+DS-8	0.773	0.789	0.757	0.717	0h 16min 31sek
+DS-9	0.771	0.759	0.782	0.764	0h 16min 20sek
+Mittelwert	0.778	0.806	0.753	0.703	0h 16min 25sek
+Standardabweichung:	0.015	0.042	0.018	0.04	0h 0min 46sek
