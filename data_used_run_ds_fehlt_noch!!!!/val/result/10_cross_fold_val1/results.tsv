@@ -1,0 +1,13 @@
+run	f1	recall	precision	specifity	runtime
+ds-1	0.844	0.908	0.789	0.724	1h 12min 39sek
+ds-10	0.827	0.842	0.813	0.787	1h 17min 43sek
+ds-2	0.861	0.903	0.823	0.779	1h 7min 46sek
+ds-3	0.851	0.874	0.829	0.815	1h 7min 34sek
+ds-4	0.885	0.945	0.832	0.759	1h 7min 5sek
+ds-5	0.854	0.883	0.827	0.836	1h 7min 16sek
+ds-6	0.823	0.821	0.824	0.778	1h 8min 8sek
+ds-7	0.832	0.842	0.823	0.776	1h 7min 40sek
+ds-8	0.809	0.849	0.772	0.705	1h 7min 44sek
+ds-9	0.866	0.873	0.86	0.859	1h 18min 59sek
+Mittelwert	0.845	0.874	0.819	0.782	1h 10min 16sek
+Standardabweichung:	0.023	0.037	0.024	0.047	0h 4min 34sek
