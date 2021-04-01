@@ -1,2 +1,0 @@
-pip3 install -r ~/Schreibtisch/ba_git/requirement.txt
-
