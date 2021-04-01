@@ -1,2 +1,0 @@
-source ~/Desktop/env/tens/bin/activate
-

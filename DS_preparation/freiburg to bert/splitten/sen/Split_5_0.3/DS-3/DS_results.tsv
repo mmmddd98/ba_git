@@ -1,9 +1,0 @@
-anzahl rel in test.tsv:	1667
- davon anzahl der Sätze:	783
-anzahl rel in train.tsv:	3880
- davon anzahl der Sätze:	1828
-gesamtanzahl in train und test.tsv:	5547
- gesamtzahl der Sätze:	2611
-null eins verhältnis test.tsv :	0.8943181818181818
-null eins verhältnis train.tsv :	0.8954567659990229
-null eins verhältnis test/train :	0.9987284878242325
